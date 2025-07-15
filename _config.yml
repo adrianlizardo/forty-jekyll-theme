@@ -1,5 +1,5 @@
 # site settings
-title: Forty
+title: drigogetem
 subtitle: by HTML5 UP
 email: Aciditysux@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
@@ -24,10 +24,10 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/Adrianlizardo/forty-jekyll-theme/master/_config.yml
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  
   Instagram: drigogetem
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  
+  Twitter: https://twitter.com/
   Facebook:
   Slack:
 
